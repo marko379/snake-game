@@ -1,0 +1,42 @@
+
+
+
+
+
+
+
+.f{
+  display: flex;
+}
+
+
+.grid {
+  width: 800px;
+  height: 800px;
+  display: flex;
+  flex-wrap: wrap;
+  border-style: solid;
+  background-color: #e6e6e6;
+}
+
+/*div inside of a grid */
+.grid div {
+  width: 20px;
+  height: 20px;
+
+  
+}
+
+.snake {
+  background-color: #ff3300;
+  outline: 3px solid black;
+
+
+}
+
+.apple {
+  background-color: purple;
+}
+
+
+
